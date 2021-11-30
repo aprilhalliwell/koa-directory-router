@@ -1,0 +1,10 @@
+{
+  "name": "koa-directory-router",
+  "version": "1.0.0",
+  "description": "Generate routes matching the structure of a specified directory",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "koa-compose": "^4.1.0",
+    "pug": "^2.0.3"
+  }
+}
